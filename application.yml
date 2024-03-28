@@ -2,8 +2,8 @@
 
 aliyun:
   sms:
-    aliyunAccessKeyId: LTAI5tFtr3XDpdAr43fRDVqm
-    aliyunAccessKeySecret: KGa3lq4wZ5aXbP3sokmWBsU6h7fyvy
+    aliyunAccessKeyId: LTAI5tSqKjpiCcfQaz6Rz7k2
+    aliyunAccessKeySecret: 7v0EuIpqlyxRSfGNeTUZurlrFar2Ej
     SignName: smscode
     smsCode: 1897156
 
