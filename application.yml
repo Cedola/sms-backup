@@ -1,0 +1,18 @@
+
+
+aliyun:
+  sms:
+    aliyunAccessKeyId: LTAI5tFtr3XDpdAr43fRDVqm
+    aliyunAccessKeySecret: KGa3lq4wZ5aXbP3sokmWBsU6h7fyvy
+    SignName: smscode
+    smsCode: 1897156
+
+
+knife4j:
+  enable: true       # 开启增强功能
+  production: false  # 是否生产环境 如果为true停用Knife4j文档
+  setting:  # 自定义footer 版本 >=2.0.8
+    enableFooter: false    # 禁用默认 footer显示
+    enableFooterCustom: true  # 自定义footer
+    # 自定义显示内容
+    footerCustomContent: Apache License 2.0 
